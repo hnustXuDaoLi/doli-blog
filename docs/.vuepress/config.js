@@ -1,5 +1,5 @@
 module.exports = {
-    title: 'Doli-Blog',
+    title: 'doli-blog',
     description: 'VuePress demo',
     serviceWorker: true,
     head: [
