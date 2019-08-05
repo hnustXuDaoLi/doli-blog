@@ -1,0 +1,14 @@
+
+# npm
+package-lock.json
+node_modules
+
+# vscode
+.idea
+
+# vuepress
+dist
+
+# 撰写中
+todo
+
